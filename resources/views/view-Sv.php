@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>List User</h1>
+    <h1>Thong tin sinh viên</h1>
     <table border=1>
         <thead>
             <tr>
